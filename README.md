@@ -16,18 +16,12 @@ Proyek ini bertujuan untuk menganalisis dataset penyewaan sepeda guna memperoleh
 3 Bagaimana kondisi cuaca mempengaruhi tingkat penggunaan sepeda ? dan pada cuaca kapan permintaan terbanyak ?
 4 Bagaimana penggunaan sepeda dalam tahun 2011 dan 2012 serta mana yang lebih unggul?
 
-
-### Data Wrangling: 
-   - Mengubah tipe data, membersihkan data, dan melakukan pemrosesan awal dataset.
-   
-### Exploratory Data Analysis (EDA)
-   - Analisis pola penyewaan sepeda berdasarkan cuaca, waktu, hari libur, dan suhu udara.
-
-### Visualizing Data
-   - Menampilkan grafik bar dan garis untuk menunjukkan hubungan antara variabel-variabel yang dianalisis.
-
-### Drawing Conclusions
-   - Menyajikan kesimpulan dari hasil analisis data.
+## Library 
+pandas
+matplotlib
+seaborn
+streamlit
+babel
 
 ### Dataset yang Digunakan
 - `day.csv`: Berisi data penyewaan sepeda harian.
