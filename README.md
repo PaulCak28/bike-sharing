@@ -11,10 +11,13 @@ Proyek ini bertujuan untuk menganalisis dataset penyewaan sepeda guna memperoleh
 ## Outline Program
 
 ### Program ini bertujuan untuk menjawab beberapa pertanyaan analisis data berikut:
-1 Pada Jam berapa permintaan sewa sepeda paling banyak ?
-2 Bagaimana kondisi musim mempengaruhi tingkat penggunaan sepeda ? dan pada musim kapan permintaan terbanyak ?
-3 Bagaimana kondisi cuaca mempengaruhi tingkat penggunaan sepeda ? dan pada cuaca kapan permintaan terbanyak ?
-4 Bagaimana penggunaan sepeda dalam tahun 2011 dan 2012 serta mana yang lebih unggul?
+- Pada Jam berapa permintaan sewa sepeda paling banyak ?
+
+- Bagaimana kondisi musim mempengaruhi tingkat penggunaan sepeda ? dan pada musim kapan permintaan terbanyak ?
+
+- Bagaimana kondisi cuaca mempengaruhi tingkat penggunaan sepeda ? dan pada cuaca kapan permintaan terbanyak ?
+
+- Bagaimana penggunaan sepeda dalam tahun 2011 dan 2012 serta mana yang lebih unggul?
 
 ## Library 
 pandas
